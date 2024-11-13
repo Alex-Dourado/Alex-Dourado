@@ -14,7 +14,7 @@
 ✨ Especialista em Automação de Testes<br>
 ✍️ Experiência na criação de testes com BDD<br>
  📋 Trabalho com metodologia Scrum<br>
-✨ Proficiente em Testes de API, mainframe e CI/CD
+✨ Proficiente em Testes de API, Mainframe e CI/CD
 </p>
 
 
