@@ -39,9 +39,7 @@
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
-  <img width="12" />
+   <img width="12" />
   <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
 </div>
 
