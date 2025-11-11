@@ -40,7 +40,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
    <img width="12" />
-  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
+  <img src="https://imgur.com/a/ldkzhxW" height="40" alt="cypress logo"  />
 </div>
 
 ###
