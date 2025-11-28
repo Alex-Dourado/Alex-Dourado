@@ -13,7 +13,7 @@
 <p align="left">
 ✨ Especialista em Automação de Testes end-to-end<br>
 ✍️ Experiência sólida na criação de cenários de teste com BDD<br>
- 📋 Atuação em metodologias Ágeis (Scrum)<br>
+ 📋 Atuação em metodologias Ágeis (Scrum e Kamban)<br>
 ✨ Proficiente em Testes de API e CI/CD
 </p>
 
