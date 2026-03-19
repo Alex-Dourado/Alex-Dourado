@@ -1,4 +1,4 @@
-<h2 align="left">Olá Pessoal 👋 </h2>
+<h2 align="left">Analista de Testes (QA) focado em automação e qualidade de software </h2>
 
 ###
 
