@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-✨ Focado em Automação de Testes<br>
+✨ Experiência em Automação de Testes<br>
 ✍️ Experiência sólida na criação de cenários de teste com BDD<br>
  📋 Atuação em metodologias Ágeis (Scrum e Kanban)<br>
 ✨ Proficiente em Testes de API e CI/CD
