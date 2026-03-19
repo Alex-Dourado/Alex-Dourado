@@ -11,7 +11,7 @@
 ✨ Proficiente em Testes de API e CI/CD
 </p>
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with</h2> 
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40" alt="selenium logo" />
