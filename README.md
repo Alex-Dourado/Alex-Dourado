@@ -1,24 +1,19 @@
-# 👨‍💻 Alex Dourado
-### Analista de Testes (QA) focado em automação e qualidade de software
+Alex-Dourado / README.md
 
-Me chamo Alex Dourado e sou focado em automação e qualidade de software. Possuo experiência sólida na criação de cenários de teste com BDD, atuação em metodologias Ágeis (Scrum e Kanban) e sou proficiente em Testes de API e CI/CD.
+# Analista de Testes (QA) focado em automação e qualidade de software
 
----
+## Sou Alex Dourado
 
-### 🛠️ Linguagens e Tecnologias
+### Sobre Mim
+
+✈ Experiência em Automação de Testes
+📂 Experiência sólida na criação de cenários de teste com BDD
+📋 Atuação em metodologias Ágeis (Scrum e Kanban)
+✈ Proficiente em Testes de API e CI/CD
+
+### I code with
+
 <p align="left">
-  <img src="https://shields.io" alt="Java" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="Cypress" />
-  <img src="https://shields.io" alt="Selenium" />
-  <img src="https://shields.io" alt="Git" />
-</p>
-
----
-
-### 📊 Estatísticas
-
-<p align="center">
-  <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://vercel.app" alt="Tecnologias Mais Usadas" />
+  <img src="https://githubusercontent.com" alt="selenium" width="40" height="40"/>
+  <img src="https://githubusercontent.com" alt="java" width="40" height="40"/>
 </p>
