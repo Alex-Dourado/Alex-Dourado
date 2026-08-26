@@ -39,17 +39,28 @@
 
 ---
 
-### 🚀 Projetos em destaque
+### 📁 Meus Projetos
 
 <p align="center">
   <a href="https://github.com/Alex-Dourado/cucumber">
     <img src="https://img.shields.io/badge/CUCUMBER-23A55A?style=for-the-badge&logo=cucumber&logoColor=white"/>
   </a>
+  <a href="https://github.com/Alex-Dourado/selenium-webdriver">
+    <img src="https://img.shields.io/badge/SELENIUM%20WEBDRIVER-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  </a>
   <a href="https://github.com/Alex-Dourado/cypress-teste-web">
-    <img src="https://img.shields.io/badge/CYPRESS-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CYPRESS%20TESTE%20WEB-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Alex-Dourado/cypress-api">
+    <img src="https://img.shields.io/badge/CYPRESS%20API-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Alex-Dourado/junit_maven">
+    <img src="https://img.shields.io/badge/JUNIT%20MAVEN-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Alex-Dourado/selenium_python">
+    <img src="https://img.shields.io/badge/SELENIUM%20PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
 </p>
-
 ---
 
 
