@@ -68,7 +68,7 @@
 ### 📫 Como me encontrar
 
 <p align="center">
-  <a href="[https://linkedin.com/in/alexsandro-dourado]https://www.linkedin.com/in/alexsandro-dourado-574394428/" target="_blank">
+  <a href="https://www.linkedin.com/in/alexsandro-dourado-574394428/" target="_blank">
     <img src="https://img.shields.io/badge/-Alexsandro%20Dourado-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
 </p>
