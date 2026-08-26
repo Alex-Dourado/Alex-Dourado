@@ -50,20 +50,7 @@
   </a>
 </p>
 
----
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alex-Dourado&show_icons=true&theme=dark&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-Dourado&theme=dark&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Dourado&layout=compact&theme=dark&hide_border=true" width="60%" />
-</p>
-
----
 
 ### 📫 Como me encontrar
 
