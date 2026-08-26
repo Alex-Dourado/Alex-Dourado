@@ -43,10 +43,10 @@
 
 <p align="center">
   <a href="https://github.com/Alex-Dourado/cucumber">
-    <img src="https://img.shields.io/badge/CUCUMBER-BDD%20Testes-23A55A?style=for-the-badge&logo=cucumber&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CUCUMBER-23A55A?style=for-the-badge&logo=cucumber&logoColor=white"/>
   </a>
   <a href="https://github.com/Alex-Dourado/cypress-teste-web">
-    <img src="https://img.shields.io/badge/CYPRESS-Testes%20Web-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CYPRESS-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
   </a>
 </p>
 
