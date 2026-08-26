@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alexsandro-dourado/" target="_blank">
+  <a href="https://www.linkedin.com/in/alexsandro-dourado-574394428/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/São_Paulo--SP-Brasil-2ECC71?style=for-the-badge&logo=googlemaps&logoColor=white" />
