@@ -60,7 +60,10 @@
   <a href="https://github.com/Alex-Dourado/selenium_python">
     <img src="https://img.shields.io/badge/SELENIUM%20PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
-  <a href="https://github.com/Alex-Dourado/postman-api"> <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> </a>
+ <a href="https://github.com/Alex-Dourado/Biblioteca">
+  <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</a>
+
 </p>
 ---
 
